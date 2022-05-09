@@ -25,7 +25,7 @@ body {
   background-color: #34595e;
 }
 
-a {
+a {  
   text-decoration: none;
 }
 
