@@ -42,6 +42,7 @@ export default {
       font-size: 28px;
       font-weight: 600;
       margin-bottom: 16px;
+      
     }
 
     .featured-img {
